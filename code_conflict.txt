@@ -1,5 +1,5 @@
 First line
 
-Second line ORIGINAL
+Second line CONFLICT
 
 Third line
